@@ -1,4 +1,4 @@
-Theme 'pixel' v1.92 - 10-26-2016 by Rookervik
+Theme 'pixel' v1.9.3 - 11-9-2016 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
@@ -11,7 +11,8 @@ Updates:
 - April  3rd, 2016: Added support for Pipplware.
 - September 1st, 2016: Added TI-99/4A.
 - October 25th, 2016: Added European/Japanese Super Nintendo.
-- October 26th, 2016: Added SNK MVS and PC Engine CD-ROM. Renamed pcecd to pce-cd and tg16 to tg-16
+- October 26th, 2016: Added SNK MVS and PC Engine CD-ROM. Renamed pcecd to pce-cd and tg16 to tg-16.
+- November 9th, 2016: Added Stratagus, SuperGrafx, Oric, Channel F, Mega-CD, and BBC Micro.
 
 
 
@@ -32,6 +33,7 @@ REQUIREMENTS: 	- Attribution, give credit to the creator
 
 
 PROHIBITED:   	- Commercial distribution
+
 
 
 LOGO NOTICE:
