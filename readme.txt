@@ -1,40 +1,25 @@
-Theme 'pixel' v1.9.3 - 11-9-2016 by Rookervik
+Theme 'pixel' v1.10 - 01/02/2017 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
 
-
 Updates:
-- September 1st, 2016: Added TI-99/4A.
-- August 22nd, 2016: Added TRS-80.
-- May 29th, 2016: Added AGS, Steam, and Desktop systems.
-- April  3rd, 2016: Added support for Pipplware.
-- September 1st, 2016: Added TI-99/4A.
-- October 25th, 2016: Added European/Japanese Super Nintendo.
-- October 26th, 2016: Added SNK MVS and PC Engine CD-ROM. Renamed pcecd to pce-cd and tg16 to tg-16.
-- November 9th, 2016: Added Stratagus, SuperGrafx, Oric, Channel F, Mega-CD, and BBC Micro.
-
-
+- 01/01/2017: Massive Logo overhaul. Changed License. Added Mac Plus/SE.
+- 11/09/2016: Added Stratagus, SuperGrafx, Oric, Channel F, Mega-CD, and BBC Micro.
+- 10/26/2016: Added SNK MVS and PC Engine CD-ROM. Renamed pcecd to pce-cd and tg16 to tg-16.
+- 10/25/2016: Added European/Japanese Super Nintendo.
+- 09/01/2016: Added TI-99/4A.
+- 08/22/2016: Added TRS-80.
+- 05/29/2016: Added AGS, Steam, and Desktop systems.
+- 04/03/2016: Added support for Pipplware.
 
 License
 =======
-ALLOWED:      	- Share and duplicate as it is
+DO NOT modify this theme or use any assets in other themes or projects.
+Graphics Copyright ©2017 Eric Hettervik
 
-              		- Edit, alter, change it
-
-
-
-REQUIREMENTS: 	- Attribution, give credit to the creator
-
-              		- Indicate changes to it
-
-              		- Publish the changes under the same license
-
-
-
-PROHIBITED:   	- Commercial distribution
-
-
+Note: MetaPixel author asked for permission to use assets and was given permission, however: 
+New Logos and graphics added on or after 01/02/2017 may not be used.
 
 LOGO NOTICE:
 The used logos and trademarks are copyright of their respective owners.

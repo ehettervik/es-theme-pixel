@@ -1,8 +1,8 @@
 <!--
 theme name:		Pixel
-version:		1.9.3
+version:		1.10
 author:			Eric Hettervik
-license:		creative commons CC-BY-NC-SA
+license:		PLEASE DO NOT MODIFY or use graphics in other projects.
 -->
 
 <theme>
@@ -11,7 +11,7 @@ license:		creative commons CC-BY-NC-SA
 	<view name="system">
 	
 		<helpsystem name="help">
-			<pos>0.012 0.960</pos>
+			<pos>0.012 0.956</pos>
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 			<fontPath>./art/font.ttf</fontPath>
