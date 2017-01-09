@@ -124,7 +124,7 @@
 		</textlist>
 
 		<text name="System_Desc" extra="true">
-			<text>Sega Master System. Released in 1985. 32 colors (of 64 total) at 256 × 192 pixels.</text>
+			<text>Sega Master System. Released in 1985. 32 colors at 256x192 pixels.</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.200 0.204</size>
 			<pos>0.569 0.677</pos>
