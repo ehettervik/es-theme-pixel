@@ -116,13 +116,13 @@
 		</textlist>
 		
 
-		<!---<image name="Bottom Console Image" extra="true">
+		<!--<image name="Bottom Console Image" extra="true">
 			<tile>false</tile>
 			<pos>0.880 0.788</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.25 0.25</maxSize>
 			<path>./console.png</path>
-		</image>--->
+		</image>-->
 
 		<text name="System_Desc" extra="true">
 			<text></text>
