@@ -124,7 +124,7 @@
 		</textlist>
 
 		<text name="System_Desc" extra="true">
-			<text>Game & Watch. 1980-1991. LCD game console.</text>
+			<text>Game &amp; Watch. 1980-1991. LCD game console.</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.200 0.204</size>
 			<pos>0.559 0.677</pos>
