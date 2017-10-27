@@ -1,9 +1,10 @@
-Theme 'pixel' v1.12 - 02/06/2017 by Rookervik
+Theme 'pixel' v1.2 - 10/26/2017 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
 
 Updates:
+- 10/26/2017: Added First Implementation of Collections.
 - 02/-6/2017: Added PC-FX.
 - 02/04/2017: Updated Atari 2600 logo. Added Mega-CD and Megadrive 32x. Moved European systems into their own folders.
 - 01/01/2017: Massive Logo overhaul. Changed License. Added Mac Plus/SE.
