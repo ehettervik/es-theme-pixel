@@ -199,7 +199,7 @@ license:		creative commons CC-BY-NC-SA
 			<pos>0.766 0.322</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.366 0.480</maxSize>
-			<delay>0.2</delay>
+			<delay>1.5</delay>
 			<default></default>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
