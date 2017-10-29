@@ -1,4 +1,3 @@
-# ES_Theme_Pixel
-Regular Pixel theme for Emulation Station. 
-Shows console image and console information on the Gameslist view.
+# ES_Theme_Pixel-Metadata
+Pixel theme with changes made to include metadata.
 Do not modify this theme or use graphics in other projects.

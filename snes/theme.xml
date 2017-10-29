@@ -14,10 +14,6 @@
 		</image>
 		
 		<image name="console_overlay" extra="true">
-			<tile>false</tile>
-			<pos>0.5 0.5</pos>
-			<origin>0.5 0.5</origin>
-			<maxSize>0.7 0.7</maxSize>
 			<path>./console.png</path>
 		</image>
 		
@@ -29,6 +25,10 @@
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
 		</helpsystem>
+		
+		<image name="console_overlay" extra="true">
+			<path>./console.png</path>
+		</image>
 		
 	</view>
 
@@ -76,7 +76,7 @@
 		
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 	
 		<image name="logo">
 			<path>./logo.png</path>
@@ -85,7 +85,7 @@
 			<origin>0.5 0.5</origin>
 		</image>
 		
-		<image name="background" extra="true">
+		<image name="background">
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>

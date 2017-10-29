@@ -15,7 +15,7 @@
 		
 		<image name="console_overlay" extra="true">
 			<tile>false</tile>
-			<pos>0.5 0.5</pos>
+			<pos>0.5 0.38</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.7 0.7</maxSize>
 			<path>./console.png</path>
@@ -76,7 +76,7 @@
 		
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 	
 		<image name="logo">
 			<path>./logo.png</path>
@@ -85,7 +85,7 @@
 			<origin>0.5 0.5</origin>
 		</image>
 		
-		<image name="background" extra="true">
+		<image name="background">
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>

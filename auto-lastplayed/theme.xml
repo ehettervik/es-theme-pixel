@@ -14,10 +14,6 @@
 		</image>
 		
 		<image name="console_overlay" extra="true">
-			<tile>false</tile>
-			<pos>0.5 0.5</pos>
-			<origin>0.5 0.5</origin>
-			<maxSize>0.7 0.7</maxSize>
 			<path>./console.png</path>
 		</image>
 		
@@ -115,25 +111,6 @@
 			<forceUppercase>0</forceUppercase>
 		</textlist>
 		
-
-		<image name="Bottom Console Image" extra="true">
-			<tile>false</tile>
-			<pos>0.880 0.788</pos>
-			<origin>0.5 0.5</origin>
-			<maxSize>0.20 0.20</maxSize>
-			<path>./console.png</path>
-		</image>
-
-		<text name="System_Desc" extra="true">
-			<text>Most recently played games.</text>
-			<forceUppercase>0</forceUppercase>
-			<size>0.200 0.204</size>
-			<pos>0.569 0.677</pos>
-			<color>ffffff</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<alignment>center</alignment>
-		</text>	
 
 
 	</view>

@@ -9,15 +9,11 @@
 			<pos>0.0 0.0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>9eff25</color>
+			<color>204a00</color>
 			<path>./../art/systemback.png</path>
 		</image>
 		
 		<image name="console_overlay" extra="true">
-			<tile>false</tile>
-			<pos>0.5 0.5</pos>
-			<origin>0.5 0.5</origin>
-			<maxSize>0.7 0.7</maxSize>
 			<path>./console.png</path>
 		</image>
 		
@@ -49,7 +45,7 @@
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>9eff25</color>
+			<color>204a00</color>
 			<path>./../art/systemback.png</path>
 		</image>
 
@@ -67,8 +63,8 @@
 			<alignment>center</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.04</fontSize>
-			<selectorColor>2d480a80</selectorColor>
-			<selectedColor>9eff25</selectedColor>
+			<selectorColor>09150080</selectorColor>
+			<selectedColor>4dc20e</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>1</forceUppercase>
@@ -76,7 +72,7 @@
 		
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 	
 		<image name="logo">
 			<path>./logo.png</path>
@@ -85,12 +81,12 @@
 			<origin>0.5 0.5</origin>
 		</image>
 		
-		<image name="background" extra="true">
+		<image name="background">
 			<tile>false</tile>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<color>9eff25</color>
+			<color>204a00</color>
 			<path>./../art/background.png</path>
 		</image>
 
@@ -108,8 +104,8 @@
 			<alignment>left</alignment>
 			<horizontalMargin>0.01</horizontalMargin>
 			<fontSize>0.03</fontSize>
-			<selectorColor>2d480a</selectorColor>
-			<selectedColor>9eff25</selectedColor>
+			<selectorColor>091500</selectorColor>
+			<selectedColor>4dc20e</selectedColor>
 			<primaryColor>ffffff</primaryColor>
 			<secondaryColor>e3e3e3</secondaryColor>
 			<forceUppercase>0</forceUppercase>
