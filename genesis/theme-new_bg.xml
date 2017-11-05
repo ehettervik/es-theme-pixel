@@ -10,7 +10,7 @@
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<color>2e3cc9</color>
-			<path>./../art/systemback.png</path>
+			<path>./../art/systems_select.png</path>
 		</image>
 		
 		<image name="console_overlay" extra="true">

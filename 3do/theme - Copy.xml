@@ -3,14 +3,14 @@
     <include>./../pixel.xml</include>
 	
 	<variables>
-		<themeColor>2e3cc9</themeColor>
-		<selectColor>ff0000</selectColor>
+		<themeColor>fda504</themeColor>
 	</variables>
 
 	<view name="system">
 
 		<image name="background" extra="true">
 			<color>${themeColor}</color>
+			<path>./../art/systems_select.png</path>
 		</image>
 		
 		<image name="console_overlay" extra="true">
@@ -31,6 +31,7 @@
 		
 		<image name="background" extra="true">
 			<color>${themeColor}</color>
+			<path>./../art/systemback.png</path>
 		</image>
 
 		<image name="Border Overlay" extra="true">
@@ -38,7 +39,8 @@
 		</image>		
 	
 		<textlist name="gamelist">
-			<selectedColor>${selectColor}</selectedColor>
+			<selectorColor>${themeColor}25</selectorColor>
+			<selectedColor>${themeColor}</selectedColor>
 		</textlist>
 		
 	</view>
@@ -49,12 +51,17 @@
 			<path>./logo.png</path>
 		</image>
 		
-		<image name="background" extra="true">
+		<image name="background">
 			<color>${themeColor}</color>
 		</image>
 
+		<image name="Border Overlay" extra="true">
+			<path>./../art/border.png</path>
+		</image>		
+	
 		<textlist name="gamelist">
-			<selectedColor>${selectColor}</selectedColor>
+			<selectorColor>${themeColor}25</selectorColor>
+			<selectedColor>${themeColor}</selectedColor>
 		</textlist>
 		
 
@@ -63,7 +70,7 @@
 		</image>
 
 		<text name="System_Desc" extra="true">
-			<text>Sega Mega Drive. Released in 1988. Displays 61 colors at 320x224 pixels.</text>
+			<text>3DO Interactive Multiplayer. 1993. 24-bit color @ 640x480 pixels.</text>
 		</text>	
 
 

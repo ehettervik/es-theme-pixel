@@ -1,10 +1,11 @@
-Theme 'pixel' v1.3 - 10/29/2017 by Rookervik
+Theme 'pixel' v1.4 - 11/05/2017 by Rookervik
 
 Thanks to muriani for the super-sexy Sega CD logo! 
 Thanks to Omnija for helping me fix some code errors.
 Thanks to Nismo for video support.
 
 Updates:
+- 11/05/2017: All xmls cleaned up, repositioning of elements, color tweaks and selector graphic.
 - 10/29/2017: Updated Carousel and added Video code from Nismo.
 - 10/26/2017: Added First Implementation of Collections.
 - 02/-6/2017: Added PC-FX.

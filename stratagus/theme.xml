@@ -1,16 +1,16 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../pixel.xml</include>
+	
+	<variables>
+		<themeColor>5793b7</themeColor>
+		<selectColor>ff7e00</selectColor>
+	</variables>
 
 	<view name="system">
-	
+
 		<image name="background" extra="true">
-			<tile>false</tile>
-			<pos>0.0 0.0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
-			<color>8da9ba</color>
-			<path>./../art/systemback.png</path>
+			<color>${themeColor}</color>
 		</image>
 		
 		<image name="console_overlay" extra="true">
@@ -20,117 +20,63 @@
 		<image name="logo">
 			<path>./logo.png</path>
         </image>
-		
-		<helpsystem name="help">
-			<textColor>ffffff</textColor>
-			<iconColor>ffffff</iconColor>
-		</helpsystem>
-		
-	</view>
-
-	<view name="basic, detailed">
+	
 	</view>
 
 	<view name="basic">
 
 		<image name="logo">
 			<path>./logo.png</path>
-			<pos>0.5 0.103</pos>
-			<maxSize>0.315 0.126</maxSize>
-			<origin>0.5 0.5</origin>
 		</image>
 		
 		<image name="background" extra="true">
-			<tile>false</tile>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
-			<color>8da9ba</color>
-			<path>./../art/systemback.png</path>
+			<color>${themeColor}</color>
 		</image>
 
 		<image name="Border Overlay" extra="true">
-			<tile>false</tile>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
 			<path>./../art/border_simple.png</path>
 		</image>		
 	
 		<textlist name="gamelist">
-			<pos>0.034 0.235</pos>
-			<size>0.933 0.647</size>
-			<alignment>center</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
-			<fontSize>0.04</fontSize>
-			<selectorColor>283035</selectorColor>
-			<selectedColor>ff7e00</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>c3c3c3</secondaryColor>
-			<forceUppercase>1</forceUppercase>
+			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
 		
 	</view>
 
-	<view name="detailed">
+	<view name="detailed, video">
 	
 		<image name="logo">
 			<path>./logo.png</path>
-			<pos>0.274 0.114</pos>
-			<maxSize>0.418 0.115</maxSize>
-			<origin>0.5 0.5</origin>
 		</image>
 		
 		<image name="background" extra="true">
-			<tile>false</tile>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
-			<color>8da9ba</color>
-			<path>./../art/background.png</path>
+			<color>${themeColor}</color>
 		</image>
 
-		<image name="Border Overlay" extra="true">
-			<tile>false</tile>
-			<pos>0 0</pos>
-			<origin>0 0</origin>
-			<size>1 1</size>
-			<path>./../art/border.png</path>
-		</image>		
-	
 		<textlist name="gamelist">
-			<pos>0.033 0.266</pos>
-			<size>0.483 0.611</size>
-			<alignment>left</alignment>
-			<horizontalMargin>0.01</horizontalMargin>
-			<fontSize>0.03</fontSize>
-			<selectorColor>283035</selectorColor>
-			<selectedColor>ff7e00</selectedColor>
-			<primaryColor>ffffff</primaryColor>
-			<secondaryColor>c3c3c3</secondaryColor>
-			<forceUppercase>0</forceUppercase>
+			<selectedColor>${selectColor}</selectedColor>
 		</textlist>
 		
 
 		<image name="Bottom Console Image" extra="true">
-			<tile>false</tile>
-			<pos>0.880 0.788</pos>
-			<origin>0.5 0.5</origin>
-			<maxSize>0.25 0.25</maxSize>
+			<pos>1 1</pos>
+			<origin>0 0</origin>
 			<path>./console.png</path>
 		</image>
-
+		
 		<text name="System_Desc" extra="true">
-			<text>A Cross-platform Real-Time-Strategy game engine.</text>
-			<forceUppercase>0</forceUppercase>
-			<size>0.200 0.204</size>
-			<pos>0.569 0.677</pos>
-			<color>ffffff</color>
-			<fontPath>./../art/font.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<alignment>center</alignment>
+			<pos>1 1</pos>
 		</text>	
 
+		<text name="md_description">
+			<color>ffffff</color>
+			<pos>0.569 0.677</pos>
+			<size>0.380 0.204</size>
+			<forceUppercase>0</forceUppercase>
+			<fontPath>./../art/font.ttf</fontPath>
+			<alignment>center</alignment>
+			<fontSize>0.03</fontSize>
+		</text>
 
 	</view>
 	
