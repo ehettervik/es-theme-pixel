@@ -151,12 +151,6 @@ license:		creative commons CC-BY-NC-SA
 			<size>1 1</size>
 			<path>./art/border.png</path>
 		</image>		
-	
-		<image name="md_image">
-			<pos>0.766 0.322</pos>
-			<maxSize>0.366 0.480</maxSize>
-			<origin>0.5 0.5</origin>
-		</image>
 		
 		<textlist name="gamelist">
 			<pos>0.034 0.258</pos>
@@ -220,6 +214,16 @@ license:		creative commons CC-BY-NC-SA
 		
 	</view>	
 	
+	<view name="detailed">	
+	
+		<image name="md_image">
+			<pos>0.766 0.322</pos>
+			<maxSize>0.366 0.480</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>	
+	
+	</view>
+	
 	<view name="video">
 	
 		<video name="md_video">
@@ -230,14 +234,17 @@ license:		creative commons CC-BY-NC-SA
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
 		</video>
+		
 		<image name="md_marquee">
 			<pos>0.57 0.035</pos>
 			<origin>0 0</origin>
 			<maxSize>0.3 0.1</maxSize>
 		</image>
+		
 	</view>
 		
 	<view name="basic, detailed, video">
+	
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed,">
 			<color>ffffff</color>
 			<pos>1 1</pos>
@@ -245,7 +252,6 @@ license:		creative commons CC-BY-NC-SA
 			<fontPath>./art/font.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 		</text>
-
 		
 		<text name="md_developer, md_publisher, md_genre, md_players, md_description">
 			<color>ffffff</color>
